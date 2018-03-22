@@ -1,0 +1,8 @@
+E:\MyEclipse\project\test1\test\test.c,字符数:69
+E:\MyEclipse\project\test1\test\test.c,单词数:16
+E:\MyEclipse\project\test1\test\test.c,行数:12
+E:\MyEclipse\project\test1\test\test.c,代码行/空行/注释行:2/2/8
+E:\MyEclipse\project\test1\test\test1.c,字符数:19
+E:\MyEclipse\project\test1\test\test1.c,单词数:4
+E:\MyEclipse\project\test1\test\test1.c,行数:3
+E:\MyEclipse\project\test1\test\test1.c,代码行/空行/注释行:3/0/0
